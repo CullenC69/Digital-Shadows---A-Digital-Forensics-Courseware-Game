@@ -9,6 +9,14 @@ The game is designed to be beginner-friendly for the general public, while also 
 
 ---
 
+## 🎮 Try It Yourself
+
+> Download and play the full game directly on itch.io — no installation required beyond extracting the ZIP.
+
+[![Play on itch.io](https://img.shields.io/badge/▶%20Download%20%26%20Play-itch.io-FA5C5C?style=for-the-badge&logo=itch.io&logoColor=white)](https://cullen69.itch.io/digital-shadows-forensics-courseware-game)
+
+---
+
 ## 🎥 Gameplay Video
 
 > Click the Link below to watch a full walkthrough of the game.
