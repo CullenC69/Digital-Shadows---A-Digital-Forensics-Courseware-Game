@@ -57,7 +57,7 @@ The game is designed to be beginner-friendly for the general public, while also 
 
 ## 💭 Personal Reflection
 
-**Understanding real forensic workflows**
+### Understanding real forensic workflows ###
 Working through each phase of the investigation — from photographing evidence to filling a Chain of Custody form to imaging a disk — gave me a much deeper appreciation for how structured and meticulous real forensic work is. Recreating these workflows in a game format forced me to understand *why* each step matters, not just *what* it involves. I now see digital forensics not just as a technical discipline, but as one where process integrity is everything.
 
 **Manipulating metadata to create a realistic challenge**
