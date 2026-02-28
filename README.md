@@ -11,7 +11,7 @@ The game is designed to be beginner-friendly for the general public, while also 
 
 ## 🎥 Gameplay Video
 
-> Click the thumbnail below to watch a full walkthrough of the game.
+> Click the Link below to watch a full walkthrough of the game.
 
 ![Image](https://github.com/user-attachments/assets/2c603365-8935-4233-847b-a4f2202a507c)
 [![Digital Forensics Game Gameplay](https://img.youtube.com/vi/-EGm1B11H8Y/maxresdefault.jpg)](https://youtu.be/-EGm1B11H8Y)
@@ -41,3 +41,16 @@ The game is designed to be beginner-friendly for the general public, while also 
 - 💾 **Disk Imaging Scene** — drag-and-drop forensic imaging with source/destination logic
 - 🔍 **Multi-category Artefact Analysis** — web searches, bookmarks, documents, deleted files, and emails
 - 🏆 **Scoring System** — players need ≥14,000 points to prove the suspect guilty
+
+---
+
+## 🛠️ Technologies & Tools
+
+| Category | Tools |
+|----------|-------|
+| Game Engine | Unity |
+| Forensic Analysis | Autopsy, FTK Imager |
+| Metadata Editing | ExifTool, SetMace |
+| Scripting | C#, Powershell |
+
+
