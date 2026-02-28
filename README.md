@@ -13,3 +13,13 @@ The game is designed to be beginner-friendly for the general public, while also 
 [![Digital Forensics Game Gameplay](https://img.youtube.com/vi/-EGm1B11H8Y/maxresdefault.jpg)](https://youtu.be/-EGm1B11H8Y)
 
 *▶ Full gameplay walkthrough — covering all 5 forensic investigation phases*
+
+## 🧩 The 5-Phase Investigation (Gameplay)
+
+| Phase | Description | What Players Do |
+|-------|-------------|-----------------|
+| **1. Identification** | Understand the crime context and identify evidence | Review the case brief and device information |
+| **2. Preservation** | Protect evidence integrity | Photograph the device, complete a Chain of Custody form, remove and image the hard disk |
+| **3. Analysis** | Examine the forensic image | Use a simulated Autopsy interface to find emails, documents, web searches, and bookmarks |
+| **4. Documentation** | Record findings | Identify and tag forensic artefacts across multiple evidence categories |
+| **5. Presentation** | Present conclusions | Accumulate enough evidence points to prove the suspect guilty |
