@@ -8,6 +8,7 @@ The game is designed to be beginner-friendly for the general public, while also 
 ## 🎥 Gameplay Video
 
 > Click the thumbnail below to watch a full walkthrough of the game.
+<!-- Uploading "2026-02-28 22_48_29-Digital Shadows.jpg"... -->
 
 [![Digital Forensics Game Gameplay](https://img.youtube.com/vi/-EGm1B11H8Y/maxresdefault.jpg)](https://youtu.be/-EGm1B11H8Y)
 
