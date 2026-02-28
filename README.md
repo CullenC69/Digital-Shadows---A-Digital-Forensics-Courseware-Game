@@ -14,6 +14,8 @@ The game is designed to be beginner-friendly for the general public, while also 
 
 *▶ Full gameplay walkthrough — covering all 5 forensic investigation phases*
 
+---
+
 ## 🧩 The 5-Phase Investigation (Gameplay)
 
 | Phase | Description | What Players Do |
