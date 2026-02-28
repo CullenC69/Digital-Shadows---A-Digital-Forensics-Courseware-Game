@@ -53,4 +53,22 @@ The game is designed to be beginner-friendly for the general public, while also 
 | Metadata Editing | ExifTool, SetMace |
 | Scripting | C#, Powershell |
 
+---
+
+## 💭 Personal Reflection
+
+**Understanding real forensic workflows**
+Working through each phase of the investigation — from photographing evidence to filling a Chain of Custody form to imaging a disk — gave me a much deeper appreciation for how structured and meticulous real forensic work is. Recreating these workflows in a game format forced me to understand *why* each step matters, not just *what* it involves. I now see digital forensics not just as a technical discipline, but as one where process integrity is everything.
+
+**Manipulating metadata to create a realistic challenge**
+The steganography challenge was the most technically demanding part of the project for me personally. Using ExifTool SetMace to carefully alter timestamps so the modified files would blend seamlessly into the original forensic image was a real eye-opener. It made me realise how easily metadata can be manipulated — and by extension, how important it is for forensic investigators to scrutinise it carefully. This directly deepened my interest in forensic anti-tampering techniques.
+
+**Connecting forensics concepts to real-world crime scenarios**
+Grounding the game in a realistic case — identity theft, forgery, and links to a drug distribution network — made the learning feel meaningful rather than academic. Researching how real investigators would approach such a case, what artefacts would be significant, and how evidence is presented in a legal context gave me a much more complete picture of what a career in cybersecurity and digital forensics actually looks like in practice.
+
+**Learning C# and Unity from scratch**
+Coming into this project, I had no prior experience with Unity or C#. It was initially intimidating to pick up a new language and engine simultaneously under a project deadline. I bridged the gap by drawing parallels between C# and languages I already knew — Python and JavaScript — which helped me get up to speed faster than expected. By the end, I was writing interactive game logic, handling UI events, and managing scene transitions confidently. It proved to me that the ability to learn new tools quickly is just as valuable as mastering any single one.
+
+**Collaborating as a team on a large project**
+This was by far the largest and most complex project I had worked on as part of a team. Coordinating across game development, forensic content, and documentation required clear communication and trust. There were moments where technical decisions affected each other's work, and navigating those dependencies taught me a lot about how to collaborate effectively under pressure. I came away with a much stronger appreciation for how good teamwork multiplies what any individual can achieve alone.
 
