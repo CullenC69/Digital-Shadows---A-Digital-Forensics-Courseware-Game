@@ -41,4 +41,3 @@ The game is designed to be beginner-friendly for the general public, while also 
 - 💾 **Disk Imaging Scene** — drag-and-drop forensic imaging with source/destination logic
 - 🔍 **Multi-category Artefact Analysis** — web searches, bookmarks, documents, deleted files, and emails
 - 🏆 **Scoring System** — players need ≥14,000 points to prove the suspect guilty
-- 🔐 **Advanced Steganography Challenge** — a bonus challenge for cybersecurity students
