@@ -27,6 +27,6 @@ The game is designed to be beginner-friendly for the general public, while also 
 |-------|-------------|-----------------|
 | **1. Identification** | Understand the crime context and identify evidence | Review the case brief and device information |
 | **2. Preservation** | Protect evidence integrity | Photograph the device, complete a Chain of Custody form, remove and image the hard disk |
-| **3. Analysis** | Examine the forensic image | Use a simulated Autopsy interface to find emails, documents, web searches, and bookmarks |
+| **3. Analysis** | Examine the forensic image | Use a **$\color{#90D5FF}{simulated}$** **$\color{#90D5FF}{Autopsy}$** **$\color{#90D5FF}{interface}$** to find emails, documents, web searches, and bookmarks |
 | **4. Documentation** | Record findings | Identify and tag forensic artefacts across multiple evidence categories |
 | **5. Presentation** | Present conclusions | Accumulate enough evidence points to prove the suspect guilty |
