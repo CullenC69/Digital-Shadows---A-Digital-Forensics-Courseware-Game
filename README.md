@@ -1,6 +1,9 @@
-# 🕵️ Digital-Forensics-Courseware-Game ( Digital Shadows )
+# 🎮 Digital-Forensics-Courseware-Game ( Digital Shadows )
 Digital Shadows is an interactive Unity-based game designed to teach the public and cybersecurity students the complete 5-phase Digital Forensics Investigation Process — through a real simulated case.
 
 ## 📖 Overview
 This project was developed as a Major Project for the Diploma in Cybersecurity & Digital Forensics at Temasek Polytechnic. It takes the form of a Unity game that walks players through a fictional but **$\color{#90D5FF}{realistic}$** **$\color{#90D5FF}{forensic}$** **$\color{#90D5FF}{investigation}$** of Jimmy Wilson — an employee accused of running a covert digital forgery business.
 The game is designed to be beginner-friendly for the general public, while also serving as **$\color{#90D5FF}{hands-on}$** **$\color{#90D5FF}{training}$** **$\color{#90D5FF}{material}$** for cybersecurity students.
+
+## 🧩 The 5-Phase Investigation (Gameplay)
+PhaseDescriptionWhat Players Do1. IdentificationUnderstand the crime context and identify evidenceReview the case brief and device information2. PreservationProtect evidence integrityPhotograph the device, complete a Chain of Custody form, remove and image the hard disk3. AnalysisExamine the forensic imageUse a simulated Autopsy interface to find emails, documents, web searches, and bookmarks4. DocumentationRecord findingsIdentify and tag forensic artefacts across multiple evidence categories5. PresentationPresent conclusionsAccumulate enough evidence points to prove the suspect guilty
