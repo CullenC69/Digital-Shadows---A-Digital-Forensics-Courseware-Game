@@ -3,4 +3,4 @@ Digital Shadows is an interactive Unity-based game designed to teach the public 
 
 ## 📖 Overview
 This project was developed as a Major Project for the Diploma in Cybersecurity & Digital Forensics at Temasek Polytechnic. It takes the form of a Unity game that walks players through a fictional but *realistic forensic investigation* of Jimmy Wilson — an employee accused of running a covert digital forgery business.
-The game is designed to be **beginner-friendly** for the general public, while also serving as @@hands-on training material@@ for cybersecurity students.
+The game is designed to be **beginner-friendly** for the general public, while also serving as $\color{#FF0000}{hands-on training material}$ for cybersecurity students.
