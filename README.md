@@ -30,3 +30,15 @@ The game is designed to be beginner-friendly for the general public, while also 
 | **3. Analysis** | Examine the forensic image | Use a **$\color{#90D5FF}{simulated}$** **$\color{#90D5FF}{Autopsy}$** **$\color{#90D5FF}{interface}$** to find emails, documents, web searches, and bookmarks |
 | **4. Documentation** | Record findings | Identify and tag forensic artefacts across multiple evidence categories |
 | **5. Presentation** | Present conclusions | Accumulate enough evidence points to prove the suspect guilty |
+
+---
+
+## 🔬 Key Features
+
+- 🖥️ **Simulated Autopsy Interface** — players navigate a realistic forensic tool to uncover evidence
+- 📸 **Evidence Photography** — photograph all 6 sides of a device before analysis
+- 📋 **Chain of Custody Form** — interactive form with validation and error handling
+- 💾 **Disk Imaging Scene** — drag-and-drop forensic imaging with source/destination logic
+- 🔍 **Multi-category Artefact Analysis** — web searches, bookmarks, documents, deleted files, and emails
+- 🏆 **Scoring System** — players need ≥14,000 points to prove the suspect guilty
+- 🔐 **Advanced Steganography Challenge** — a bonus challenge for cybersecurity students
